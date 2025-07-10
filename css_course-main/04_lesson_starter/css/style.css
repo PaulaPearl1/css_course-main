@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+}
+
+h1{
+   width: 50%;
+  font-size: 3rem;
+  padding: 0.5em;
+   border: 2px dashed red;
+}
+
+main{
+
+    font-size: 2rem;
+}
+
+p{
+    font-size: 2rem;
+    width: 4och;
+}
+
